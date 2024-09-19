@@ -1,21 +1,15 @@
 -----
-### <p align="center">⭐ Haru ⭐</p>
+### <p align="center">⭐ Haru-RedStar ⭐</p>
 
 <p align="center">
 <strong>
-The best free minecraft client for closet cheating based in Raven b+.
-<br>Develop by <a href="https://github.com/Cvrwed">Cvrwed</a>.
-<br><br><br>
+The best free minecraft client for closet cheating based on Haru.
+<br>Developed by Ilum (and alarmingly)<br>
 </strong>
 <img src="https://i.imgur.com/12ZgPEi.png">
 </p>
 <br>
 
------
-### Discord & Donwload
-- [Click me](https://discord.gg/palestina)
-- No Forge Version: [Here](https://github.com/Cvrwed/Haru-MCP)
------
 
 ### Setup
 1. Download the src.
@@ -28,6 +22,7 @@ The best free minecraft client for closet cheating based in Raven b+.
 ### <p align="center"> Credits </p>
 
 <br><br>
+* [Cvrwed](https://github.com/Cvrwed/) | Owner of [Haru](https://github.com/Cvrwed/Haru)
 * [Kopamed](https://github.com/Kopamed/) | Owner of [Raven b+](https://github.com/Kopamed/Raven-bPLUS)
 * [Syz66](https://github.com/Syz66/) | For the clickgui of Illusion (I didn't find the repo)
 * [Strangerrrs](https://github.com/Strangerrrs/) | For some events
